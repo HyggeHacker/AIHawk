@@ -4,7 +4,16 @@
     "aihawk": {
       "type": "stdio",
       "command": "uvx",
-      "args": ["aihawk"]
+      "args": [
+        "aihawk"
+      ]
+    },
+    "seam-probe": {
+      "type": "stdio",
+      "command": "bunx",
+      "args": [
+        "seam-probe-mcp"
+      ]
     }
   }
 }
